@@ -1,7 +1,6 @@
 # Data-exploration-in-2016-US-precidential-elections
 This repository is a assignment project during my Msc in Business Analyitcs.
-Main goal of the project is the data exploration of the US presidential elections in 2016.
-
+Main goal of the project is the data exploration of the US presidential elections in 2016 for this reason we tried to solve the following tasks.
 
 1.Identify the top 5 Political Action Committees (PACs), or rather, super-PACs, that supported each of the two presidential candidates, giving the amount of money raised and spent by each one of them.
 
